@@ -1,0 +1,19 @@
+{
+  "name": "gloria_new",
+  "version": "1.0.0",
+  "description": "This is a ReadMe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gloria-91/Gloria_new.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gloria-91/Gloria_new/issues"
+  },
+  "homepage": "https://github.com/gloria-91/Gloria_new#readme"
+}
